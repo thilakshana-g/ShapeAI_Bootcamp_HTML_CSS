@@ -1,4 +1,3 @@
-# ShapeAI_Bootcamp_HTML_CSS
 # SHAPEAI WEB DEV BOOTCAMP
 
 
